@@ -1,6 +1,6 @@
 from pymodbus.client.sync import ModbusTcpClient
 from datetime import datetime, time
-import random
+# import random
 import json
 import time
 

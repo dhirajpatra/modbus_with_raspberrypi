@@ -1,6 +1,6 @@
 # from pymodbus.client import ModbusSerialClient, ModbusTcpClient
 from pymodbus.client.sync import ModbusTcpClient
-from datetime import datetime, time
+# from datetime import datetime, time
 import random
 import time
 
